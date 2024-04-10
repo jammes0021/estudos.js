@@ -1,3 +1,3 @@
-const none = "julhão"
+const nome = "julhão"
 
-console.log(none)
+console.log(nome)
