@@ -40,4 +40,7 @@ const escola = [
         sexo:"f"
     }  
 ]
-console.log (escola[2])
+
+for(let i=0; i <10;i++)(
+    console.log(escola[i].nome)
+)
